@@ -1,4 +1,5 @@
 let W, Counter, Angle;
+let test=0;
 
 function setup() {
   createCanvas(W=720, W);
